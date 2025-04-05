@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Apurva Baru
 
 🎓 MS in Business Analytics @ University of Minnesota (Class of 2025)  
-💼 Former Consultant @ PwC | 4+ years of experience  
+💼 Former Consultant @ PwC | 4+ years of experience
+🎓 B.Tech. in Electronics & Telecommunications — Specialization in Computer Vision  
 📊 Passionate about Data Analytics, Business Intelligence & Automation  
 
 ---

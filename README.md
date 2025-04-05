@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Apurva Baru
 
 🎓 MS in Business Analytics @ University of Minnesota (Class of 2025)  
-💼 Former Consultant @ PwC | 4+ years of experience
-🎓 B.Tech. in Electronics & Telecommunications — Specialization in Computer Vision  
+💼 Former Consultant @ PwC | 4+ years of experience  
+🎓 B.Tech in Electronics & Telecommunications — Specialization in Computer Vision  
 📊 Passionate about Data Analytics, Business Intelligence & Automation  
 
 ---
 
-## 🔧 Skills
+## 🔧 Skills  
 **Languages**: Python, SQL  
 **Tools**: Power BI, Excel, UiPath, Power Automate  
-**Tech**: Machine Learning, RPA, Gen AI, LLMs
+**Tech**: Machine Learning, RPA, Gen AI, LLMs  
 
 ---
 
-## 📫 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/apurva-baru)  
+## 📫 Let’s Connect  
+- [LinkedIn](https://www.linkedin.com/in/apurva-baru)  
 
 <!---
 apurvavbaru/apurvavbaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

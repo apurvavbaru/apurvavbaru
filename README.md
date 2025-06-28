@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apurva
 
-I'm a data analyst who loves turning raw data into real-world impact. Whether it’s building interactive dashboards or training ML models, I’m passionate about using **Python, SQL, Tableau, and Power BI** to craft stories that drive smarter decisions. With a background in consulting and analytics, I thrive at the intersection of **data and business strategy** — where numbers meet narratives. I believe the best insights are the ones people can actually use. That’s why I enjoy building tools and visualizations that are both **powerful and practical**.
+I'm a data analyst who loves turning raw data into real-world impact. Whether it’s building interactive dashboards or training ML models, I’m passionate about using **Python, SQL, Tableau, and Power BI** to craft stories that drive smarter decisions. With a background in consulting and analytics, I thrive at the intersection of **data and business strategy**, where numbers meet narratives. I believe the best insights are the ones people can actually use. That’s why I enjoy building tools and visualizations that are both **powerful and practical**.
 
 ---
 
@@ -39,4 +39,4 @@ I'm a data analyst who loves turning raw data into real-world impact. Whether it
 
 ---
 
-> *Because every dataset tells a story — let’s make it one that drives impact.*
+> *Because every dataset tells a story, let’s make it one that drives impact.*
